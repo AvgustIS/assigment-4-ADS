@@ -1,3 +1,10 @@
+### Dijkstra's Algorithm (Bonus Task)
+* **Logic**: Computes the shortest paths from a single source vertex to all other vertices in a weighted graph using simple array iterations.
+* **Use Cases**: GPS navigation systems, network routing protocols.
+* **Complexity**: O(V^2) due to implementation via simple loops without a priority queue.
+
+
+
 # Assignment 4: Graph Traversal and Representation System
 
 ## A. Project Overview
